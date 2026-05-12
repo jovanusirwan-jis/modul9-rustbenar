@@ -33,6 +33,3 @@ Karena URL pada publisher dan subscriber sama, maka:
 publisher mengirim message ke RabbitMQ yang sama, subscriber menerima message dari RabbitMQ yang sama.
 
 Dengan begitu subscriber dapat menerima event yang dikirim publisher.
-
-![Yang run 1 kali aja](<Screenshot 2026-05-12 182625.png>)
-![gambar grafik 1 kali aja](<Screenshot 2026-05-12 182801.png>)
